@@ -6,9 +6,11 @@ import { Button } from "@/components/ui/button";
 
 const QuantitySelector = () => {
   const [quantity, setQuantity] = useState(1);
+
   const handleDecrement = () => {
     setQuantity((prev) => (prev > 1 ? prev - 1 : prev));
   };
+
   const handleIncrement = () => {
     setQuantity((prev) => prev + 1);
   };
