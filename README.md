@@ -66,30 +66,43 @@ O projeto utiliza **Drizzle ORM** para gerenciar a persistência de dados com Po
 
 ### 1. Clone o repositório
 git clone https://github.com/seu-usuario/next-ecommerce.git
-cd next-ecommerce
 
 ### 2. Instale as dependências
 npm install
 
 ### 3. Configure as variáveis de ambiente
 Crie um arquivo `.env` na raiz do projeto com as seguintes chaves (substitua pelos valores reais):
+```sh
 DATABASE_URL=******
 BETTER_AUTH_SECRET=******
-BETTER_AUTH_URL=******
 GOOGLE_CLIENT_ID=******
 GOOGLE_CLIENT_SECRET=******
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=******
 STRIPE_SECRET_KEY=******
 STRIPE_WEBHOOK_SECRET=******
 NEXT_PUBLIC_APP_URL=******
+```
 
 ### 4. Configure o banco de dados
 # Execute as migrações
+```sh
 npm run db:generate
 npm run db:migrate
+```
 
 ### 5. Inicie o servidor de desenvolvimento
 npm run dev
 
 ### 6. Acesse a aplicação
+
+```sh
 http://localhost:3000
+```
+
+## Caso queira conferir a versão com deploy feito na Vercel:
+
+- Escaneie o QR Code:
+
+![Image](https://github.com/user-attachments/assets/52f0a374-9a2b-448e-9270-4a833045a5e3)
+
+- Ou acesse este [Link](https://next-ecommerce-orpin-ten.vercel.app/).
