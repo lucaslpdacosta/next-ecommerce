@@ -2,9 +2,11 @@
 
 import { ShoppingBasketIcon } from "lucide-react";
 import Link from "next/link";
+
 import { Button } from "@/components/ui/button";
 import { formatCentsToBRL } from "@/helpers/money";
 import { useCart } from "@/hooks/queries/use-cart";
+
 import { ScrollArea } from "../ui/scroll-area";
 import { Separator } from "../ui/separator";
 import {
