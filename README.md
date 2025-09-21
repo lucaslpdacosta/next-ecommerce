@@ -50,17 +50,19 @@ O projeto utiliza **Drizzle ORM** para gerenciar a persistência de dados com Po
 
 ### 📷 Telas da aplicação
 
-![Image](https://github.com/user-attachments/assets/1aeb1512-32a8-45dd-b5b7-7211e5ee1436)
+![Image](https://github.com/user-attachments/assets/a25af6da-9848-47bc-97b8-0d4cfdda4435)
 
-![Image](https://github.com/user-attachments/assets/74e9df1d-f8e5-4c0a-9b5d-f068f13bb84e)
+![Image](https://github.com/user-attachments/assets/6871367b-cf32-461e-8514-923732ce57ec)
 
-![Image](https://github.com/user-attachments/assets/8dd77a83-be72-4942-b297-a1459d09a1c1)
+![Image](https://github.com/user-attachments/assets/163c2e8f-d003-4909-8657-124cd1bacfb4)
 
-![Image](https://github.com/user-attachments/assets/d819326f-cdf6-4722-8476-79fef84687b9)
+![Image](https://github.com/user-attachments/assets/33fb396f-6a98-4acd-bda4-01380f5f27a1)
 
-![Image](https://github.com/user-attachments/assets/11fb5091-54c8-476e-9e42-c767a5fbb573)
+![Image](https://github.com/user-attachments/assets/583b5293-eb22-402a-940c-edca0ee7cbaf)
 
-![Image](https://github.com/user-attachments/assets/a6567159-a714-4f40-bfb4-1d28ea8db3c2)
+![Image](https://github.com/user-attachments/assets/157cb487-a7a1-417e-afec-2b353f42eb99)
+
+![Image](https://github.com/user-attachments/assets/441de237-a46f-4e77-b1ce-77a7b1bcb783)
 
 ## 🛠️ Como Rodar o Projeto
 
@@ -103,6 +105,6 @@ http://localhost:3000
 
 - Escaneie o QR Code:
 
-![Image](https://github.com/user-attachments/assets/52f0a374-9a2b-448e-9270-4a833045a5e3)
+![Image](https://github.com/user-attachments/assets/5b64e4de-6de7-4d7b-a1e2-69bf46bd7088)
 
 - Ou acesse este [Link](https://next-ecommerce-orpin-ten.vercel.app/).
